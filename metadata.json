@@ -1,0 +1,5 @@
+{
+  "name": "LibraryLedger AI",
+  "description": "Automated digital library accounting and receipt auditing powered by AI.",
+  "requestFramePermissions": ["camera"]
+}
